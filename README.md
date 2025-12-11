@@ -1,0 +1,1 @@
+-Checks Words for their Palindrome Possibility
